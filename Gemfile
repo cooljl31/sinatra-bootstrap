@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'rake'
-gem 'sinatra'
+gem 'sinatra', '>= 2.2.3'
 gem 'shotgun'
 gem 'haml'
 
